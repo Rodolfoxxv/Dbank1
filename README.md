@@ -17,3 +17,20 @@ A função `abs` garante que o depósito e o saque sejam sempre positivos, mesmo
 ```python
 valor = float(input(f"Insira o valor do Depósito: "))
 valor_correto = abs(valor)
+
+# Como Clonar Repositório e Instalar Python
+
+## Passo 1: Selecionar Local no Computador
+Primeiro, selecione a pasta no seu computador onde você deseja clonar o repositório.
+
+## Passo 2: Clonar o Repositório
+Abra o Git Bash ou o cmd no seu terminal e execute o seguinte comando:
+
+git clone https://github.com/Rodolfoxxv/Dbank1.git
+
+# Caso não tenha o Python
+
+Baixe verção para o seu sitema operacional no link: https://www.python.org/downloads/
+
+
+
