@@ -17,8 +17,9 @@ A função `abs` garante que o depósito e o saque sejam sempre positivos, mesmo
 ```python
 valor = float(input(f"Insira o valor do Depósito: "))
 valor_correto = abs(valor)
+```
 
-# Como Clonar Repositório e Instalar Python
+## Funcionalidades Como Clonar Repositório e Instalar Python
 
 ## Passo 1: Selecionar Local no Computador
 Primeiro, selecione a pasta no seu computador onde você deseja clonar o repositório.
