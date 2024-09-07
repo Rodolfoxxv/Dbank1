@@ -30,7 +30,7 @@ Abra o Git Bash ou o cmd no seu terminal e execute o seguinte comando:
 git clone https://github.com/Rodolfoxxv/Dbank1.git
 
 - **Caso não tenha o Python:** 
-Baixe verção para o seu sitema operacional no link: https://www.python.org/downloads/
+Baixe versão para o seu sistema operacional no link: https://www.python.org/downloads/
 
 
 
