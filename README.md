@@ -25,9 +25,7 @@ valor_correto = abs(valor)
 Primeiro, selecione a pasta no seu computador onde você deseja clonar o repositório.
 
 - **Passo 2:**  Clonar o Repositório
-Abra o Git Bash ou o cmd no seu terminal e execute o seguinte comando:
-
-git clone https://github.com/Rodolfoxxv/Dbank1.git
+Abra o Git Bash ou o cmd no seu terminal e execute o seguinte comando: git clone https://github.com/Rodolfoxxv/Dbank1.git
 
 - **Caso não tenha o Python:** 
 Baixe versão para o seu sistema operacional no link: https://www.python.org/downloads/
